@@ -1,1 +1,1 @@
-# django_shop_server
+проект на master  ветке
